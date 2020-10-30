@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T15:17:27.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="571-3mYI9YHf7VvdN_v1" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T16:47:50.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="mBvDvpU-PTxkWAjdhhQY" version="13.8.8" type="github">
   <diagram id="BnabexScI4imxc3tNI2s" name="Page-1">
     <mxGraphModel dx="1422" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
           <mxGeometry y="760" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xu32azS4VeaMNBOQkFKt-3" value="Each product team can generate the artifacts required for the creation of the IC IS image. Since each team has to build the product locally and test their code, they could use the artifacts from the promoted stage of other components and latest code from their component.&lt;br&gt;And after a successful BVT, promote the artifacts which may be include packages and configurations to the repository. We should ensure that the build script is exactly the same for each product so that sequence is maintained all the way." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=left;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-80" width="900" height="60" as="geometry" />
+          <mxGeometry x="50" y="-170" width="900" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
